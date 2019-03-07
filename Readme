@@ -1,0 +1,18 @@
+Description:
+
+The main aim of the program is to create n number of processes out of which s processes run simultaneously
+
+Command line Arguments:
+
+-h : Help.
+-n : To create an 'n' number of processes.It requires an integer argument.
+-s : It helps specify the max no.of processes allowed to run a the same time.
+
+Steps: 
+1.Run make.
+2.Run executable file with necessary arguments.
+
+Makefile :
+
+Just type "make" to build executable files.
+make clean : To remove all target and object files.
